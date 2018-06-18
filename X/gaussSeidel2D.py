@@ -1,8 +1,8 @@
 """
 2017NumericalMethodsOfPDE, lectureX2
-solve poisson equation with jacobi iteration method
+solve 2D poisson equation with Gauss-Seidel iteration method
 
-date : 2018-06-17
+date : 2018-06-18
 author: kouui
 """
 
